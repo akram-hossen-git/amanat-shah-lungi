@@ -242,3 +242,7 @@ html.sticky-header-active #header .header-nav-features .header-nav-top-icon-img 
 .cutom-theme-text-color{
     color: #F7941D !important;
 }
+
+.business-section svg {
+    height: 120px !important;
+}
