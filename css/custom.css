@@ -246,3 +246,19 @@ html.sticky-header-active #header .header-nav-features .header-nav-top-icon-img 
 .business-section svg {
     height: 120px !important;
 }
+
+.custom-bg-secondary{
+    background-color: #007236 !important;
+}
+
+
+.custom-text-secondary{
+    color: #007236 !important;
+}
+.custom-text-primary{
+    color: var(--primary) !important;
+}
+
+.custom-text-black{
+    color: #000 !important;
+}
